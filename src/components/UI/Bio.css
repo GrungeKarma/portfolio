@@ -1,0 +1,54 @@
+#bio {
+  background-color: var(--eerie-black);
+  text-align: center;
+}
+#bio > * {
+  color: snow;
+  margin: 0 15% 0 15%;
+}
+#bio > h1 {
+  padding-top: 1em;
+}
+#bio > h2 {
+  padding: 1em 0 0.5em 0;
+}
+#bio > p {
+  padding-top: 0.25em;
+}
+#dual-flex {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+#prof {
+  width: 20rem;
+}
+#prof > p {
+  text-indent: 1em;
+  text-align: left;
+}
+#prof > * {
+  color: snow;
+}
+#pers {
+  width: 20rem;
+}
+#pers > p {
+  text-indent: 1em;
+  text-align: left;
+}
+#prof > h3 {
+  padding: 1em 0 1em 0;
+  font-size: 1.5em;
+}
+#pers > h3 {
+  padding: 1em 0 1em 0;
+  font-size: 1.5em;
+}
+@media (max-width: 961px) {
+  #bio > * {
+    margin: 0 5% 0 5%;
+  }
+}
