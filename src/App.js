@@ -1,9 +1,10 @@
 import NavBar from './components/UI/NavBar';
 import Footer from './components/UI/Footer';
-import './App.css';
 import Hero from './components/UI/Hero';
 import Bio from './components/sections/Bio';
 import Projects from './components/sections/Projects';
+import './App.css';
+
 
 
 const projectArr = [
