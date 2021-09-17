@@ -19,7 +19,6 @@ const Bio = () => {
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis est, laudantium dolore, odit inventore et cupiditate veritatis repellendus assumenda facilis architecto totam aliquam quibusdam earum rerum, harum ipsam. Quibusdam, veniam.
             Nobis voluptatem amet aliquid aperiam, provident nulla distinctio accusamus tempora nihil pariatur exercitationem, molestias quisquam quam quibusdam? Error, vitae! Officiis, ipsa. Id placeat cumque earum et maxime, ullam officia quia.
           </p>
-
         </div>
       </div>
     </div>

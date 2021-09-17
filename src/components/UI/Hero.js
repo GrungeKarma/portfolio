@@ -1,6 +1,7 @@
 import './Hero.css';
 
 const Hero = () => {
+
   return (
     <div className="hero"  >
       <h1>Anthony Lopez</h1>
